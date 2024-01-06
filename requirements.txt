@@ -1,3 +1,0 @@
-maplotlib
-sympy
-rich
