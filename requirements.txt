@@ -1,0 +1,3 @@
+maplotlib
+sympy
+rich
